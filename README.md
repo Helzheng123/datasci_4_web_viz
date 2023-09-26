@@ -10,6 +10,8 @@ One challenge I faced was deploying the app with shinyapps.io. Following the [tu
 
 Then I pressed **publish application** and realized there were multiple shiny web apps. So I deleted those and then published application on shinyappio and was able to deploy it. [Shiny App deployment](https://f5j0b9-helen0zheng.shinyapps.io/shiny_r_app/)
 
+![image](https://github.com/Helzheng123/datasci_4_web_viz/assets/123939070/4dbc233a-bcaa-41b1-86a2-bd15d6cf6b70)
+
 #### 2. Python's Shiny Visualization:
 No complications here. I deployed it with ```shiny run cdc.py --reload``` in google shell cloud.
 
