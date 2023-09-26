@@ -1,6 +1,8 @@
 # datasci_4_web_viz
 Explore web-based platforms for interactive data visualization, contrasting R's Shiny with Python's equivalents. Harness these tools to present data in interactive and user-friendly ways.
 
+https://f5j0b9-helen0zheng.shinyapps.io/shiny_r_app/
+
 ### Challenges Encountered for each deployment:
 
 #### 1. R's Shiny Visualization:
@@ -21,6 +23,3 @@ No complications here. I deployed it with ```shiny run cdc.py --reload``` in goo
 No complications here. I deployed it with ```python app.py``` in google shell cloud.
 
 ![image](https://github.com/Helzheng123/datasci_4_web_viz/assets/123939070/f12e75f0-df30-4203-87b3-217077c31da4)
-
-
-https://f5j0b9-helen0zheng.shinyapps.io/shiny_r_app/
